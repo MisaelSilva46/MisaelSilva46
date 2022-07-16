@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misaelsilva46&label=Profile%20views&color=0e75b6&style=flat" alt="misaelsilva46" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misaelsilva46" alt="misaelsilva46" /></a> </p>
-
 - 🔭 I’m currently working on **Mottu**
 
 - 🌱 I’m currently learning **Angular, TypeScript**
