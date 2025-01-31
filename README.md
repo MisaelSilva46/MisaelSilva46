@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Making**
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **React, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MisaelSilva46?tab=repositories](https://github.com/MisaelSilva46?tab=repositories)
 
 - 💬 Ask me about **Html, CSS, JavaScript, React, Rect Native**
 
 - 📫 How to reach me **misael_o@icloud.com**
-
-- ⚡ Fun fact **Daria tudo para… Conquistar meus sonhos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
